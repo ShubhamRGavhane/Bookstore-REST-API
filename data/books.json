@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2b3c81fa-eeaf-4f28-8e6e-946bcc7500d7",
+    "title": "Book Title 1",
+    "author": "Author Name 1",
+    "genre": "Fiction",
+    "publishedYear": 2023,
+    "userId": "d652e6c6-281a-4a6e-81ac-cfb0da1ebacb"
+  },
+  {
+    "id": "867189e0-0707-4981-bdd0-e9bd8af571e0",
+    "title": "Book Title 2",
+    "author": "Author Name 2",
+    "genre": "Fiction",
+    "publishedYear": 2023,
+    "userId": "d652e6c6-281a-4a6e-81ac-cfb0da1ebacb"
+  },
+  {
+    "id": "26e11138-6aee-449b-ae47-e07e9cf7cc64",
+    "title": "Book Title ",
+    "author": "Author Name 2",
+    "genre": "Fiction",
+    "publishedYear": 2023,
+    "userId": "d652e6c6-281a-4a6e-81ac-cfb0da1ebacb"
+  },
+  {
+    "id": "1a334932-097e-4098-acd5-ee528e95730f",
+    "title": "Book Title 4",
+    "author": "Author Name 2",
+    "genre": "Fiction",
+    "publishedYear": 2023,
+    "userId": "d652e6c6-281a-4a6e-81ac-cfb0da1ebacb"
+  },
+  {
+    "id": "3bca9ccf-a6c1-4324-be30-1cf742bfc29b",
+    "title": "Updated Title",
+    "author": "Author Name 22",
+    "genre": "new",
+    "publishedYear": 1991,
+    "userId": "d652e6c6-281a-4a6e-81ac-cfb0da1ebacb"
+  }
+]
