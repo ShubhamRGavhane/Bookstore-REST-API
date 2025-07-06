@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const auth = require('../middleware/auth');
-const { readJsonFile, writeJsonFile } = require('../utils/fileHelper');
+const { readJsonFile, writeJsonFile } = require('../utils/FileHelper');
 const { v4: uuid } = require('uuid');
 
 const BOOKS_FILE = 'data/books.json';

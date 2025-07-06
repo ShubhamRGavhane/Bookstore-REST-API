@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const { readJsonFile, writeJsonFile } = require('../utils/fileHelper');
+const { readJsonFile, writeJsonFile } = require('../utils/FileHelper');
 const jwt = require('jsonwebtoken');
 const bcrypt = require('bcryptjs');
 const { v4: uuid } = require('uuid');
